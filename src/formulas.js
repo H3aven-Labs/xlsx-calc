@@ -55,6 +55,7 @@ let formulas = {
   FILTER: throwErrors(FILTER),
   DATEDIF: datediff,
   EOMONTH: eomonth,
+  XLOOKUP: XLOOKUP
 };
 
 function choose(option) {
